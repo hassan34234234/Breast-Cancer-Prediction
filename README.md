@@ -5,7 +5,6 @@ This project applies **logistic regression** to predict whether a given breast c
 ## Table of Contents
 - [Project Description](#project-description)
 - [Installation](#installation)
-- [How to Run](#how-to-run)
 - [Model Performance](#model-performance)
 - [License](#license)
 
