@@ -30,12 +30,6 @@ To run this project locally, you'll need Python and several dependencies. Follow
 
 After running the code, you can predict the class of a given cell by inputting its measurements. The output will tell you whether the cell is malignant (1) or benign (0).
 
-Here’s an example of how the model predicts:
-
-# Sample code for prediction
-predicted_class = model.predict([[mean_radius, mean_texture, mean_perimeter, ...]])
-print("Prediction:", "Malignant" if predicted_class == 1 else "Benign")
-
 **Model Performance**
 The model achieves an accuracy of 98% on the test dataset, demonstrating its ability to predict with high reliability. Below are the detailed evaluation metrics:
 
