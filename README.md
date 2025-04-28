@@ -6,7 +6,6 @@ This project applies **logistic regression** to predict whether a given breast c
 - [Project Description](#project-description)
 - [Installation](#installation)
 - [How to Run](#how-to-run)
-- [Example Usage](#example-usage)
 - [Model Performance](#model-performance)
 - [License](#license)
 
@@ -37,3 +36,6 @@ Accuracy: 0.98
 Precision: 0.98
 Recall: 0.97
 F1-score: 0.97
+
+License
+This project is licensed under the MIT License. See the LICENSE file for more details.
